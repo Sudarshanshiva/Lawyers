@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435802120721",
+    "project_id": "jflogin-82cc6",
+    "storage_bucket": "jflogin-82cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435802120721:android:707cd9032a92c5206587b0",
+        "android_client_info": {
+          "package_name": "com.example.jflogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4nMBmuV8PqFGpd79Pjx_Zmw-cbnAbyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435802120721:android:7a7955db14e2980a6587b0",
+        "android_client_info": {
+          "package_name": "com.example.profile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4nMBmuV8PqFGpd79Pjx_Zmw-cbnAbyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
